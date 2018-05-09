@@ -6,7 +6,7 @@ module.exports = {
   css: {
     loaderOptions: {
       sass: {
-        data: fs.readFileSync('src/assets/scss/abstracts/_settings.scss', 'utf-8'),
+        data: fs.readFileSync('src/design/abstracts/_settings.scss', 'utf-8'),
       },
     },
   },
