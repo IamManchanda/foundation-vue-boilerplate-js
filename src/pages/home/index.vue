@@ -1,12 +1,12 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div class="p-home">
+    <p>Hello World</p>
   </div>
 </template>
 
 <script>
+
 export default {
-  name: 'App',
+  name: 'PageHome',
 };
 </script>
-
