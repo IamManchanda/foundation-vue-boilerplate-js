@@ -10,3 +10,5 @@ export default {
   name: 'PageHome',
 };
 </script>
+
+<!-- <style lang="scss" scoped src="./_scoped.scss"></style> -->

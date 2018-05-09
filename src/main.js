@@ -1,7 +1,7 @@
 import Vue from 'vue';
-import App from '@/App.vue';
-import router from '@/router/index';
-import store from '@/store/index';
+import App from '@/view/App.vue';
+import router from '@/view/router/index';
+import store from '@/view/store/index';
 import '@/registerServiceWorker';
 import '@/design/styles.scss';
 
