@@ -3,5 +3,9 @@ module.exports = {
   'extends': [
     'plugin:vue/essential',
     '@vue/airbnb'
-  ]
+  ],
+  rules: {
+    'import/no-unresolved': 0,
+    'import/extensions': 0,
+  },
 }
